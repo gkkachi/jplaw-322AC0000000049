@@ -11,21 +11,21 @@
     "promulgation_date": "1947-04-07"
   },
   "revision_info": {
-    "law_revision_id": "322AC0000000049_20200401_502AC0000000013",
+    "law_revision_id": "322AC0000000049_20220617_504AC0000000068",
     "law_type": "Act",
     "law_title": "労働基準法",
     "law_title_kana": "ろうどうきじゅんほう",
     "abbrev": "労基法",
     "category": "労働",
-    "updated": "2024-07-21T17:20:29+09:00",
-    "amendment_promulgate_date": "2020-03-31",
-    "amendment_enforcement_date": "2020-04-01",
+    "updated": "2024-07-22T15:10:01+09:00",
+    "amendment_promulgate_date": "2022-06-17",
+    "amendment_enforcement_date": "2022-06-17",
     "amendment_enforcement_comment": null,
     "amendment_scheduled_enforcement_date": null,
-    "amendment_law_id": "502AC0000000013",
-    "amendment_law_title": "労働基準法の一部を改正する法律",
-    "amendment_law_title_kana": "",
-    "amendment_law_num": "令和二年法律第十三号",
+    "amendment_law_id": "504AC0000000068",
+    "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+    "amendment_law_title_kana": null,
+    "amendment_law_num": "令和四年法律第六十八号",
     "amendment_type": "3",
     "repeal_status": "None",
     "repeal_date": null,
@@ -25961,8 +25961,133 @@
             ]
           },
           {
+            "tag": "SupplProvision",
+            "attr": {
+              "AmendLawNum": "令和四年六月一七日法律第六八号",
+              "Extract": "true"
+            },
+            "children": [
+              {
+                "tag": "SupplProvisionLabel",
+                "attr": {},
+                "children": [
+                  "附　則"
+                ]
+              },
+              {
+                "tag": "Paragraph",
+                "attr": {
+                  "Num": "1"
+                },
+                "children": [
+                  {
+                    "tag": "ParagraphCaption",
+                    "attr": {},
+                    "children": [
+                      "（施行期日）"
+                    ]
+                  },
+                  {
+                    "tag": "ParagraphNum",
+                    "attr": {},
+                    "children": [
+                      "１"
+                    ]
+                  },
+                  {
+                    "tag": "ParagraphSentence",
+                    "attr": {},
+                    "children": [
+                      {
+                        "tag": "Sentence",
+                        "attr": {
+                          "Function": "main",
+                          "Num": "1",
+                          "WritingMode": "vertical"
+                        },
+                        "children": [
+                          "この法律は、刑法等一部改正法施行日から施行する。"
+                        ]
+                      },
+                      {
+                        "tag": "Sentence",
+                        "attr": {
+                          "Function": "proviso",
+                          "Num": "2",
+                          "WritingMode": "vertical"
+                        },
+                        "children": [
+                          "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "tag": "Item",
+                    "attr": {
+                      "Num": "1"
+                    },
+                    "children": [
+                      {
+                        "tag": "ItemTitle",
+                        "attr": {},
+                        "children": [
+                          "一"
+                        ]
+                      },
+                      {
+                        "tag": "ItemSentence",
+                        "attr": {},
+                        "children": [
+                          {
+                            "tag": "Column",
+                            "attr": {
+                              "Num": "1"
+                            },
+                            "children": [
+                              {
+                                "tag": "Sentence",
+                                "attr": {
+                                  "Num": "1",
+                                  "WritingMode": "vertical"
+                                },
+                                "children": [
+                                  "第五百九条の規定"
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "tag": "Column",
+                            "attr": {
+                              "Num": "2"
+                            },
+                            "children": [
+                              {
+                                "tag": "Sentence",
+                                "attr": {
+                                  "Num": "1",
+                                  "WritingMode": "vertical"
+                                },
+                                "children": [
+                                  "公布の日"
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "tag": "AppdxTable",
-            "attr": {},
+            "attr": {
+              "Num": "1"
+            },
             "children": [
               {
                 "tag": "AppdxTableTitle",
@@ -26449,7 +26574,9 @@
           },
           {
             "tag": "AppdxTable",
-            "attr": {},
+            "attr": {
+              "Num": "2"
+            },
             "children": [
               {
                 "tag": "AppdxTableTitle",
@@ -27205,7 +27332,9 @@
           },
           {
             "tag": "AppdxTable",
-            "attr": {},
+            "attr": {
+              "Num": "3"
+            },
             "children": [
               {
                 "tag": "AppdxTableTitle",
