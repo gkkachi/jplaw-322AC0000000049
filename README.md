@@ -19,7 +19,7 @@
 
 ## データソース
 
-法令データは、デジタル庁が提供する[e-Gov法令API（Version 2）](https://laws.e-gov.go.jp/api/2/docs/)を利用して取得しています。
+法令データは、デジタル庁が提供する[e-Gov法令API（Version 2）](https://laws.e-gov.go.jp/api/2/redoc/)を利用して取得しています。
 
 ## ライセンス
 
