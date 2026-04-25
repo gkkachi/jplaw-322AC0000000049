@@ -11,21 +11,21 @@
     "promulgation_date": "1947-04-07"
   },
   "revision_info": {
-    "law_revision_id": "322AC0000000049_20220617_504AC0000000068",
+    "law_revision_id": "322AC0000000049_20230401_430AC0000000071",
     "law_type": "Act",
     "law_title": "労働基準法",
     "law_title_kana": "ろうどうきじゅんほう",
     "abbrev": "労基法",
     "category": "労働",
-    "updated": "2024-07-22T15:10:01+09:00",
-    "amendment_promulgate_date": "2022-06-17",
-    "amendment_enforcement_date": "2022-06-17",
+    "updated": "2024-07-21T17:27:57+09:00",
+    "amendment_promulgate_date": "2018-07-06",
+    "amendment_enforcement_date": "2023-04-01",
     "amendment_enforcement_comment": null,
     "amendment_scheduled_enforcement_date": null,
-    "amendment_law_id": "504AC0000000068",
-    "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
-    "amendment_law_title_kana": null,
-    "amendment_law_num": "令和四年法律第六十八号",
+    "amendment_law_id": "430AC0000000071",
+    "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律",
+    "amendment_law_title_kana": "",
+    "amendment_law_num": "平成三十年法律第七十一号",
     "amendment_type": "3",
     "repeal_status": "None",
     "repeal_date": null,
@@ -16075,50 +16075,6 @@
                             },
                             "children": [
                               "期間の定めのある労働契約（一定の事業の完了に必要な期間を定めるものを除き、その期間が一年を超えるものに限る。）を締結した労働者（第十四条第一項各号に規定する労働者を除く。）は、労働基準法の一部を改正する法律（平成十五年法律第百四号）附則第三条に規定する措置が講じられるまでの間、民法第六百二十八条の規定にかかわらず、当該労働契約の期間の初日から一年を経過した日以後においては、その使用者に申し出ることにより、いつでも退職することができる。"
-                            ]
-                          }
-                        ]
-                      }
-                    ]
-                  }
-                ]
-              },
-              {
-                "tag": "Article",
-                "attr": {
-                  "Num": "138"
-                },
-                "children": [
-                  {
-                    "tag": "ArticleTitle",
-                    "attr": {},
-                    "children": [
-                      "第百三十八条"
-                    ]
-                  },
-                  {
-                    "tag": "Paragraph",
-                    "attr": {
-                      "Num": "1"
-                    },
-                    "children": [
-                      {
-                        "tag": "ParagraphNum",
-                        "attr": {},
-                        "children": []
-                      },
-                      {
-                        "tag": "ParagraphSentence",
-                        "attr": {},
-                        "children": [
-                          {
-                            "tag": "Sentence",
-                            "attr": {
-                              "Num": "1",
-                              "WritingMode": "vertical"
-                            },
-                            "children": [
-                              "中小事業主（その資本金の額又は出資の総額が三億円（小売業又はサービス業を主たる事業とする事業主については五千万円、卸売業を主たる事業とする事業主については一億円）以下である事業主及びその常時使用する労働者の数が三百人（小売業を主たる事業とする事業主については五十人、卸売業又はサービス業を主たる事業とする事業主については百人）以下である事業主をいう。）の事業については、当分の間、第三十七条第一項ただし書の規定は、適用しない。"
                             ]
                           }
                         ]
