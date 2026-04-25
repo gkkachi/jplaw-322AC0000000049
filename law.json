@@ -11,21 +11,21 @@
     "promulgation_date": "1947-04-07"
   },
   "revision_info": {
-    "law_revision_id": "322AC0000000049_20190401_430AC0000000071",
+    "law_revision_id": "322AC0000000049_20200401_429AC0000000045",
     "law_type": "Act",
     "law_title": "労働基準法",
     "law_title_kana": "ろうどうきじゅんほう",
     "abbrev": "労基法",
     "category": "労働",
-    "updated": "2024-07-21T16:43:08+09:00",
-    "amendment_promulgate_date": "2018-07-06",
-    "amendment_enforcement_date": "2019-04-01",
+    "updated": "2024-07-21T16:48:15+09:00",
+    "amendment_promulgate_date": "2017-06-02",
+    "amendment_enforcement_date": "2020-04-01",
     "amendment_enforcement_comment": null,
     "amendment_scheduled_enforcement_date": null,
-    "amendment_law_id": "430AC0000000071",
-    "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律",
+    "amendment_law_id": "429AC0000000045",
+    "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
     "amendment_law_title_kana": "",
-    "amendment_law_num": "平成三十年法律第七十一号",
+    "amendment_law_num": "平成二十九年法律第四十五号",
     "amendment_type": "3",
     "repeal_status": "None",
     "repeal_date": null,
@@ -10928,7 +10928,7 @@
                                   "WritingMode": "vertical"
                                 },
                                 "children": [
-                                  "第一項の規定による審査又は仲裁の申立て及び第二項の規定による審査又は仲裁の開始は、時効の中断に関しては、これを裁判上の請求とみなす。"
+                                  "第一項の規定による審査又は仲裁の申立て及び第二項の規定による審査又は仲裁の開始は、時効の完成猶予及び更新に関しては、これを裁判上の請求とみなす。"
                                 ]
                               }
                             ]
@@ -25043,7 +25043,7 @@
                                       "WritingMode": "vertical"
                                     },
                                     "children": [
-                                      "平成三十五年四月一日"
+                                      "令和五年四月一日"
                                     ]
                                   }
                                 ]
@@ -25149,7 +25149,7 @@
                               "WritingMode": "vertical"
                             },
                             "children": [
-                              "中小事業主（その資本金の額又は出資の総額が三億円（小売業又はサービス業を主たる事業とする事業主については五千万円、卸売業を主たる事業とする事業主については一億円）以下である事業主及びその常時使用する労働者の数が三百人（小売業を主たる事業とする事業主については五十人、卸売業又はサービス業を主たる事業とする事業主については百人）以下である事業主をいう。第四項及び附則第十一条において同じ。）の事業に係る協定（新労基法第百三十九条第二項に規定する事業、第百四十条第二項に規定する業務、第百四十一条第四項に規定する者及び第百四十二条に規定する事業に係るものを除く。）についての前条の規定の適用については、「平成三十一年四月一日」とあるのは、「平成三十二年四月一日」とする。"
+                              "中小事業主（その資本金の額又は出資の総額が三億円（小売業又はサービス業を主たる事業とする事業主については五千万円、卸売業を主たる事業とする事業主については一億円）以下である事業主及びその常時使用する労働者の数が三百人（小売業を主たる事業とする事業主については五十人、卸売業又はサービス業を主たる事業とする事業主については百人）以下である事業主をいう。第四項及び附則第十一条において同じ。）の事業に係る協定（新労基法第百三十九条第二項に規定する事業、第百四十条第二項に規定する業務、第百四十一条第四項に規定する者及び第百四十二条に規定する事業に係るものを除く。）についての前条の規定の適用については、「平成三十一年四月一日」とあるのは、「令和二年四月一日」とする。"
                             ]
                           }
                         ]
@@ -25509,6 +25509,142 @@
                             },
                             "children": [
                               "この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "SupplProvision",
+            "attr": {
+              "AmendLawNum": "令和二年三月三一日法律第一四号",
+              "Extract": "true"
+            },
+            "children": [
+              {
+                "tag": "SupplProvisionLabel",
+                "attr": {},
+                "children": [
+                  "附　則"
+                ]
+              },
+              {
+                "tag": "Article",
+                "attr": {
+                  "Num": "1"
+                },
+                "children": [
+                  {
+                    "tag": "ArticleCaption",
+                    "attr": {},
+                    "children": [
+                      "（施行期日）"
+                    ]
+                  },
+                  {
+                    "tag": "ArticleTitle",
+                    "attr": {},
+                    "children": [
+                      "第一条"
+                    ]
+                  },
+                  {
+                    "tag": "Paragraph",
+                    "attr": {
+                      "Num": "1"
+                    },
+                    "children": [
+                      {
+                        "tag": "ParagraphNum",
+                        "attr": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "ParagraphSentence",
+                        "attr": {},
+                        "children": [
+                          {
+                            "tag": "Sentence",
+                            "attr": {
+                              "Function": "main",
+                              "Num": "1",
+                              "WritingMode": "vertical"
+                            },
+                            "children": [
+                              "この法律は、令和二年四月一日から施行する。"
+                            ]
+                          },
+                          {
+                            "tag": "Sentence",
+                            "attr": {
+                              "Function": "proviso",
+                              "Num": "2",
+                              "WritingMode": "vertical"
+                            },
+                            "children": [
+                              "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Item",
+                        "attr": {
+                          "Num": "1"
+                        },
+                        "children": [
+                          {
+                            "tag": "ItemTitle",
+                            "attr": {},
+                            "children": [
+                              "一"
+                            ]
+                          },
+                          {
+                            "tag": "ItemSentence",
+                            "attr": {},
+                            "children": [
+                              {
+                                "tag": "Column",
+                                "attr": {
+                                  "Num": "1"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "Sentence",
+                                    "attr": {
+                                      "Num": "1",
+                                      "WritingMode": "vertical"
+                                    },
+                                    "children": [
+                                      "第一条中雇用保険法第十九条第一項の改正規定、同法第三十六条の見出しを削る改正規定並びに同法第四十八条及び第五十四条の改正規定並びに同法附則第四条、第五条、第十条及び第十一条の二第一項の改正規定並びに附則第十条、第二十六条及び第二十八条から第三十二条までの規定"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "Column",
+                                "attr": {
+                                  "Num": "2"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "Sentence",
+                                    "attr": {
+                                      "Num": "1",
+                                      "WritingMode": "vertical"
+                                    },
+                                    "children": [
+                                      "公布の日"
+                                    ]
+                                  }
+                                ]
+                              }
                             ]
                           }
                         ]
