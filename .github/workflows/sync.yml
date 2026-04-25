@@ -2,7 +2,7 @@ name: Sync Law Revisions
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Run daily at midnight
+    - cron: '0 15 * * *' # Run daily at midnight Japan
   workflow_dispatch: # Allow manual trigger
 
 jobs:
