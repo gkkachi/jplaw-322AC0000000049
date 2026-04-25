@@ -1,7 +1,7 @@
 #!/usr/bin/env zx
 
 import jsonata from 'jsonata';
-import { readFileSync, writeFileSync } from 'fs';
+import { readFileSync, writeFileSync, appendFileSync } from 'fs';
 
 const LAW_ID = '322AC0000000049';
 const API_BASE = 'https://laws.e-gov.go.jp/api/2';
@@ -58,6 +58,9 @@ unprocessed.sort((a, b) => {
 
 if (unprocessed.length === 0) {
   console.log('All revisions are up to date.');
+  if (process.env.GITHUB_OUTPUT) {
+    appendFileSync(process.env.GITHUB_OUTPUT, "updated=false\n");
+  }
   process.exit(0);
 }
 
@@ -87,4 +90,7 @@ for (const rev of unprocessed) {
   await $`git tag ${revId}`;
 }
 
+if (process.env.GITHUB_OUTPUT) {
+  appendFileSync(process.env.GITHUB_OUTPUT, "updated=true\n");
+}
 console.log('Sync complete.');

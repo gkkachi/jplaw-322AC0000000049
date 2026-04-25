@@ -26,9 +26,11 @@ jobs:
         run: npm install
 
       - name: Run sync script
+        id: sync
         run: npx zx sync.mjs
 
       - name: Push changes
+        if: steps.sync.outputs.updated == 'true'
         run: |
           git push origin main
           git push --tags
