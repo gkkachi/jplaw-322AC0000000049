@@ -6,7 +6,9 @@
       $tag := $n.tag;
       $childText := $n.children ? $process($n.children) : '';
       
+      $tag = 'LawNum' ? $childText & '\n\n' :
       $tag = 'LawTitle' ? '# ' & $childText & '\n\n' :
+      $tag = 'TOCLabel' ? $childText & '\n\n' :
       $tag = 'ChapterTitle' ? '## ' & $childText & '\n\n' :
       $tag = 'SectionTitle' ? '### ' & $childText & '\n\n' :
       $tag = 'ArticleTitle' ? '#### ' & $childText & '\n' :
