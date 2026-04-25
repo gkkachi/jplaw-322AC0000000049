@@ -11,15 +11,15 @@
     "promulgation_date": "1947-04-07"
   },
   "revision_info": {
-    "law_revision_id": "322AC0000000049_20240531_506AC0000000042",
+    "law_revision_id": "322AC0000000049_20250401_506AC0000000042",
     "law_type": "Act",
     "law_title": "労働基準法",
     "law_title_kana": "ろうどうきじゅんほう",
     "abbrev": "労基法",
     "category": "労働",
-    "updated": "2024-07-22T15:18:30+09:00",
+    "updated": "2024-07-22T15:23:37+09:00",
     "amendment_promulgate_date": "2024-05-31",
-    "amendment_enforcement_date": "2024-05-31",
+    "amendment_enforcement_date": "2025-04-01",
     "amendment_enforcement_comment": null,
     "amendment_scheduled_enforcement_date": null,
     "amendment_law_id": "506AC0000000042",
@@ -1227,7 +1227,7 @@
                                       "WritingMode": "vertical"
                                     },
                                     "children": [
-                                      "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律（平成三年法律第七十六号）第二条第一号に規定する育児休業又は同条第二号に規定する介護休業（同法第六十一条第三項（同条第六項において準用する場合を含む。）に規定する介護をするための休業を含む。第三十九条第十項において同じ。）をした期間"
+                                      "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律（平成三年法律第七十六号）第二条第一号に規定する育児休業又は同条第二号に規定する介護休業（同法第六十一条第三項に規定する行政執行法人介護休業及び同法第六十一条の二第三項に規定する介護をするための休業を含む。第三十九条第十項において同じ。）をした期間"
                                     ]
                                   }
                                 ]
