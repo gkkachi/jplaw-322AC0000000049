@@ -11,21 +11,21 @@
     "promulgation_date": "1947-04-07"
   },
   "revision_info": {
-    "law_revision_id": "322AC0000000049_20230401_430AC0000000071",
+    "law_revision_id": "322AC0000000049_20240531_506AC0000000042",
     "law_type": "Act",
     "law_title": "労働基準法",
     "law_title_kana": "ろうどうきじゅんほう",
     "abbrev": "労基法",
     "category": "労働",
-    "updated": "2024-07-21T17:27:57+09:00",
-    "amendment_promulgate_date": "2018-07-06",
-    "amendment_enforcement_date": "2023-04-01",
+    "updated": "2024-07-22T15:18:30+09:00",
+    "amendment_promulgate_date": "2024-05-31",
+    "amendment_enforcement_date": "2024-05-31",
     "amendment_enforcement_comment": null,
     "amendment_scheduled_enforcement_date": null,
-    "amendment_law_id": "430AC0000000071",
-    "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律",
-    "amendment_law_title_kana": "",
-    "amendment_law_num": "平成三十年法律第七十一号",
+    "amendment_law_id": "506AC0000000042",
+    "amendment_law_title": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び次世代育成支援対策推進法の一部を改正する法律",
+    "amendment_law_title_kana": null,
+    "amendment_law_num": "令和六年法律第四十二号",
     "amendment_type": "3",
     "repeal_status": "None",
     "repeal_date": null,
@@ -26040,10 +26040,195 @@
             ]
           },
           {
-            "tag": "AppdxTable",
+            "tag": "SupplProvision",
             "attr": {
-              "Num": "1"
+              "AmendLawNum": "令和六年五月三一日法律第四二号",
+              "Extract": "true"
             },
+            "children": [
+              {
+                "tag": "SupplProvisionLabel",
+                "attr": {},
+                "children": [
+                  "附　則"
+                ]
+              },
+              {
+                "tag": "Article",
+                "attr": {
+                  "Num": "1"
+                },
+                "children": [
+                  {
+                    "tag": "ArticleCaption",
+                    "attr": {},
+                    "children": [
+                      "（施行期日）"
+                    ]
+                  },
+                  {
+                    "tag": "ArticleTitle",
+                    "attr": {},
+                    "children": [
+                      "第一条"
+                    ]
+                  },
+                  {
+                    "tag": "Paragraph",
+                    "attr": {
+                      "Num": "1"
+                    },
+                    "children": [
+                      {
+                        "tag": "ParagraphNum",
+                        "attr": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "ParagraphSentence",
+                        "attr": {},
+                        "children": [
+                          {
+                            "tag": "Sentence",
+                            "attr": {
+                              "Function": "main",
+                              "Num": "1",
+                              "WritingMode": "vertical"
+                            },
+                            "children": [
+                              "この法律は、令和七年四月一日から施行する。"
+                            ]
+                          },
+                          {
+                            "tag": "Sentence",
+                            "attr": {
+                              "Function": "proviso",
+                              "Num": "2",
+                              "WritingMode": "vertical"
+                            },
+                            "children": [
+                              "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Item",
+                        "attr": {
+                          "Num": "1"
+                        },
+                        "children": [
+                          {
+                            "tag": "ItemTitle",
+                            "attr": {},
+                            "children": [
+                              "一"
+                            ]
+                          },
+                          {
+                            "tag": "ItemSentence",
+                            "attr": {},
+                            "children": [
+                              {
+                                "tag": "Column",
+                                "attr": {
+                                  "Num": "1"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "Sentence",
+                                    "attr": {
+                                      "Num": "1",
+                                      "WritingMode": "vertical"
+                                    },
+                                    "children": [
+                                      "第三条中次世代育成支援対策推進法附則第二条第一項の改正規定並びに附則第三条、第八条、第十条及び第十三条の規定"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "Column",
+                                "attr": {
+                                  "Num": "2"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "Sentence",
+                                    "attr": {
+                                      "Num": "1",
+                                      "WritingMode": "vertical"
+                                    },
+                                    "children": [
+                                      "公布の日"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "Article",
+                "attr": {
+                  "Num": "13"
+                },
+                "children": [
+                  {
+                    "tag": "ArticleCaption",
+                    "attr": {},
+                    "children": [
+                      "（政令への委任）"
+                    ]
+                  },
+                  {
+                    "tag": "ArticleTitle",
+                    "attr": {},
+                    "children": [
+                      "第十三条"
+                    ]
+                  },
+                  {
+                    "tag": "Paragraph",
+                    "attr": {
+                      "Num": "1"
+                    },
+                    "children": [
+                      {
+                        "tag": "ParagraphNum",
+                        "attr": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "ParagraphSentence",
+                        "attr": {},
+                        "children": [
+                          {
+                            "tag": "Sentence",
+                            "attr": {
+                              "Num": "1",
+                              "WritingMode": "vertical"
+                            },
+                            "children": [
+                              "この附則に定めるもののほか、この法律の施行に伴い必要な経過措置は、政令で定める。"
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "AppdxTable",
+            "attr": {},
             "children": [
               {
                 "tag": "AppdxTableTitle",
@@ -26530,9 +26715,7 @@
           },
           {
             "tag": "AppdxTable",
-            "attr": {
-              "Num": "2"
-            },
+            "attr": {},
             "children": [
               {
                 "tag": "AppdxTableTitle",
@@ -27288,9 +27471,7 @@
           },
           {
             "tag": "AppdxTable",
-            "attr": {
-              "Num": "3"
-            },
+            "attr": {},
             "children": [
               {
                 "tag": "AppdxTableTitle",
