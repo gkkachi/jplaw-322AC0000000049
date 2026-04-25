@@ -11,38 +11,38 @@
     "promulgation_date": "1947-04-07"
   },
   "revision_info": {
-    "law_revision_id": "322AC0000000049_20250401_506AC0000000042",
+    "law_revision_id": "322AC0000000049_20250601_504AC0000000068",
     "law_type": "Act",
     "law_title": "労働基準法",
     "law_title_kana": "ろうどうきじゅんほう",
     "abbrev": "労基法",
     "category": "労働",
-    "updated": "2024-07-22T15:23:37+09:00",
-    "amendment_promulgate_date": "2024-05-31",
-    "amendment_enforcement_date": "2025-04-01",
+    "updated": "2024-12-11T12:59:50+09:00",
+    "amendment_promulgate_date": "2022-06-17",
+    "amendment_enforcement_date": "2025-06-01",
     "amendment_enforcement_comment": null,
     "amendment_scheduled_enforcement_date": null,
-    "amendment_law_id": "506AC0000000042",
-    "amendment_law_title": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び次世代育成支援対策推進法の一部を改正する法律",
+    "amendment_law_id": "504AC0000000068",
+    "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
     "amendment_law_title_kana": null,
-    "amendment_law_num": "令和六年法律第四十二号",
+    "amendment_law_num": "令和四年法律第六十八号",
     "amendment_type": "3",
     "repeal_status": "None",
     "repeal_date": null,
     "remain_in_force": false,
     "mission": "New",
-    "current_revision_status": "PreviousEnforced"
+    "current_revision_status": "CurrentEnforced"
   },
   "law_full_text": {
     "tag": "Law",
     "attr": {
-      "Era": "Showa",
       "Lang": "ja",
-      "LawType": "Act",
-      "Num": "049",
+      "Era": "Showa",
       "Year": "22",
-      "PromulgateMonth": "04",
-      "PromulgateDay": "07"
+      "Num": "049",
+      "PromulgateMonth": "4",
+      "PromulgateDay": "7",
+      "LawType": "Act"
     },
     "children": [
       {
@@ -14281,7 +14281,7 @@
                                   "WritingMode": "vertical"
                                 },
                                 "children": [
-                                  "第五条の規定に違反した者は、これを一年以上十年以下の懲役又は二十万円以上三百万円以下の罰金に処する。"
+                                  "第五条の規定に違反した者は、一年以上十年以下の拘禁刑又は二十万円以上三百万円以下の罰金に処する。"
                                 ]
                               }
                             ]
@@ -14325,7 +14325,7 @@
                                   "WritingMode": "vertical"
                                 },
                                 "children": [
-                                  "第六条、第五十六条、第六十三条又は第六十四条の二の規定に違反した者は、これを一年以下の懲役又は五十万円以下の罰金に処する。"
+                                  "第六条、第五十六条、第六十三条又は第六十四条の二の規定に違反した者は、一年以下の拘禁刑又は五十万円以下の罰金に処する。"
                                 ]
                               }
                             ]
@@ -14400,7 +14400,7 @@
                                   "WritingMode": "vertical"
                                 },
                                 "children": [
-                                  "次の各号のいずれかに該当する者は、六箇月以下の懲役又は三十万円以下の罰金に処する。"
+                                  "次の各号のいずれかに該当する者は、六月以下の拘禁刑又は三十万円以下の罰金に処する。"
                                 ]
                               }
                             ]
@@ -16392,7 +16392,7 @@
                               "WritingMode": "vertical"
                             },
                             "children": [
-                              "第三項の規定に違反した者は、六箇月以下の懲役又は三十万円以下の罰金に処する。"
+                              "第三項の規定に違反した者は、六月以下の拘禁刑又は三十万円以下の罰金に処する。"
                             ]
                           }
                         ]
