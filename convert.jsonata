@@ -1,0 +1,24 @@
+(
+  $process := function($n) {
+    $type($n) = 'string' ? $n :
+    $type($n) = 'array' ? $join($map($n, $process), '') :
+    $type($n) = 'object' ? (
+      $tag := $n.tag;
+      $childText := $n.children ? $process($n.children) : '';
+      
+      $tag = 'LawTitle' ? '# ' & $childText & '\n\n' :
+      $tag = 'ChapterTitle' ? '## ' & $childText & '\n\n' :
+      $tag = 'SectionTitle' ? '### ' & $childText & '\n\n' :
+      $tag = 'ArticleTitle' ? '#### ' & $childText & '\n' :
+      $tag = 'ArticleCaption' ? '*' & $childText & '*\n' :
+      $tag = 'ParagraphNum' ? $childText & ' ' :
+      $tag = 'ParagraphSentence' ? $childText & '\n\n' :
+      $tag = 'ItemTitle' ? $childText & ' ' :
+      $tag = 'ItemSentence' ? $childText & '\n\n' :
+      $tag = 'SupplProvisionLabel' ? '## ' & $childText & '\n\n' :
+      $tag = 'AppdxTableTitle' ? '## ' & $childText & '\n\n' :
+      $childText
+    ) : ''
+  };
+  $process(law_full_text)
+)
