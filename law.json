@@ -11,21 +11,21 @@
     "promulgation_date": "1947-04-07"
   },
   "revision_info": {
-    "law_revision_id": "322AC0000000049_20170602_429AC0000000045",
+    "law_revision_id": "322AC0000000049_20180706_430AC0000000071",
     "law_type": "Act",
     "law_title": "労働基準法",
     "law_title_kana": "ろうどうきじゅんほう",
     "abbrev": "労基法",
     "category": "労働",
-    "updated": "2024-07-23T04:03:56+09:00",
-    "amendment_promulgate_date": "2017-06-02",
-    "amendment_enforcement_date": "2017-06-02",
+    "updated": "2024-07-22T15:12:24+09:00",
+    "amendment_promulgate_date": "2018-07-06",
+    "amendment_enforcement_date": "2018-07-06",
     "amendment_enforcement_comment": null,
     "amendment_scheduled_enforcement_date": null,
-    "amendment_law_id": "429AC0000000045",
-    "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+    "amendment_law_id": "430AC0000000071",
+    "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律",
     "amendment_law_title_kana": null,
-    "amendment_law_num": "平成二十九年法律第四十五号",
+    "amendment_law_num": "平成三十年法律第七十一号",
     "amendment_type": "3",
     "repeal_status": "None",
     "repeal_date": null,
@@ -23024,6 +23024,281 @@
                         },
                         "children": [
                           "ただし、第百三条の二、第百三条の三、第二百六十七条の二、第二百六十七条の三及び第三百六十二条の規定は、公布の日から施行する。"
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "tag": "SupplProvision",
+            "attr": {
+              "AmendLawNum": "平成三〇年七月六日法律第七一号",
+              "Extract": "true"
+            },
+            "children": [
+              {
+                "tag": "SupplProvisionLabel",
+                "attr": {},
+                "children": [
+                  "附　則"
+                ]
+              },
+              {
+                "tag": "Article",
+                "attr": {
+                  "Num": "1"
+                },
+                "children": [
+                  {
+                    "tag": "ArticleCaption",
+                    "attr": {},
+                    "children": [
+                      "（施行期日）"
+                    ]
+                  },
+                  {
+                    "tag": "ArticleTitle",
+                    "attr": {},
+                    "children": [
+                      "第一条"
+                    ]
+                  },
+                  {
+                    "tag": "Paragraph",
+                    "attr": {
+                      "Num": "1"
+                    },
+                    "children": [
+                      {
+                        "tag": "ParagraphNum",
+                        "attr": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "ParagraphSentence",
+                        "attr": {},
+                        "children": [
+                          {
+                            "tag": "Sentence",
+                            "attr": {
+                              "Function": "main",
+                              "Num": "1",
+                              "WritingMode": "vertical"
+                            },
+                            "children": [
+                              "この法律は、平成三十一年四月一日から施行する。"
+                            ]
+                          },
+                          {
+                            "tag": "Sentence",
+                            "attr": {
+                              "Function": "proviso",
+                              "Num": "2",
+                              "WritingMode": "vertical"
+                            },
+                            "children": [
+                              "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Item",
+                        "attr": {
+                          "Num": "1"
+                        },
+                        "children": [
+                          {
+                            "tag": "ItemTitle",
+                            "attr": {},
+                            "children": [
+                              "一"
+                            ]
+                          },
+                          {
+                            "tag": "ItemSentence",
+                            "attr": {},
+                            "children": [
+                              {
+                                "tag": "Column",
+                                "attr": {
+                                  "Num": "1"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "Sentence",
+                                    "attr": {
+                                      "Num": "1",
+                                      "WritingMode": "vertical"
+                                    },
+                                    "children": [
+                                      "第三条の規定並びに附則第七条第二項、第八条第二項、第十四条及び第十五条の規定、附則第十八条中社会保険労務士法（昭和四十三年法律第八十九号）別表第一第十八号の改正規定、附則第十九条中高年齢者等の雇用の安定等に関する法律（昭和四十六年法律第六十八号）第二十八条及び第三十八条第三項の改正規定、附則第二十条中建設労働者の雇用の改善等に関する法律（昭和五十一年法律第三十三号）第三十条第二項の改正規定、附則第二十七条の規定、附則第二十八条中厚生労働省設置法（平成十一年法律第九十七号）第四条第一項第五十二号の改正規定及び同法第九条第一項第四号の改正規定（「（平成十年法律第四十六号）」の下に「、労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律」を加える部分に限る。）並びに附則第三十条の規定"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "Column",
+                                "attr": {
+                                  "Num": "2"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "Sentence",
+                                    "attr": {
+                                      "Num": "1",
+                                      "WritingMode": "vertical"
+                                    },
+                                    "children": [
+                                      "公布の日"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Item",
+                        "attr": {
+                          "Num": "2"
+                        },
+                        "children": [
+                          {
+                            "tag": "ItemTitle",
+                            "attr": {},
+                            "children": [
+                              "二"
+                            ]
+                          },
+                          {
+                            "tag": "ItemSentence",
+                            "attr": {},
+                            "children": [
+                              {
+                                "tag": "Sentence",
+                                "attr": {
+                                  "Num": "1",
+                                  "WritingMode": "vertical"
+                                },
+                                "children": [
+                                  "略"
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "tag": "Item",
+                        "attr": {
+                          "Num": "3"
+                        },
+                        "children": [
+                          {
+                            "tag": "ItemTitle",
+                            "attr": {},
+                            "children": [
+                              "三"
+                            ]
+                          },
+                          {
+                            "tag": "ItemSentence",
+                            "attr": {},
+                            "children": [
+                              {
+                                "tag": "Column",
+                                "attr": {
+                                  "Num": "1"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "Sentence",
+                                    "attr": {
+                                      "Num": "1",
+                                      "WritingMode": "vertical"
+                                    },
+                                    "children": [
+                                      "第一条中労働基準法第百三十八条の改正規定"
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "tag": "Column",
+                                "attr": {
+                                  "Num": "2"
+                                },
+                                "children": [
+                                  {
+                                    "tag": "Sentence",
+                                    "attr": {
+                                      "Num": "1",
+                                      "WritingMode": "vertical"
+                                    },
+                                    "children": [
+                                      "平成三十五年四月一日"
+                                    ]
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "tag": "Article",
+                "attr": {
+                  "Num": "30"
+                },
+                "children": [
+                  {
+                    "tag": "ArticleCaption",
+                    "attr": {},
+                    "children": [
+                      "（政令への委任）"
+                    ]
+                  },
+                  {
+                    "tag": "ArticleTitle",
+                    "attr": {},
+                    "children": [
+                      "第三十条"
+                    ]
+                  },
+                  {
+                    "tag": "Paragraph",
+                    "attr": {
+                      "Num": "1"
+                    },
+                    "children": [
+                      {
+                        "tag": "ParagraphNum",
+                        "attr": {},
+                        "children": []
+                      },
+                      {
+                        "tag": "ParagraphSentence",
+                        "attr": {},
+                        "children": [
+                          {
+                            "tag": "Sentence",
+                            "attr": {
+                              "Num": "1",
+                              "WritingMode": "vertical"
+                            },
+                            "children": [
+                              "この附則に規定するもののほか、この法律の施行に伴い必要な経過措置（罰則に関する経過措置を含む。）は、政令で定める。"
+                            ]
+                          }
                         ]
                       }
                     ]
